@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(253, 239, 220);
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    color:green;
+    text-decoration: underline;
+}
+
